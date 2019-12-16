@@ -1,7 +1,7 @@
-const port = 8000
+const port = process.env.PORT || 4000
 const dbURIPrefix = 'mongodb://localhost/'
-const dbName = 'just-eat'
-const dbURI = `${dbURIPrefix}${dbName}`
+const dbName = 'the-kitchen'
+const dbURI = process.env.MONGODB_URI || 'mongodb://localhost:27017/database-name'
 
 
 // our secret used for encoing our JWT tokens, used in '/controllers/user' and '/lib/secureRoute'
@@ -11,4 +11,6 @@ module.exports = {
   dbURI,
   secret
 }
+
+
 

@@ -1,14 +1,16 @@
 {
   "name": "project-3",
   "version": "1.0.0",
-  "description": "Marissa is the best  I like eggs!!! and peas, petit pois Michael is cool.",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "mocha backend/test/**/*_spec.js --require backend/test/helper --recursive --exit",
     "seed": "node backend/db/seeds.js",
     "serve:back": "nodemon backend/app.js",
-    "serve:front": "webpack-dev-server --mode-development"
-  },
+		"serve:front": "webpack-dev-server --mode-development",
+		"build": "npm run seed; webpack -p",
+  	"start": "node backend/app.js"
+	},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Riada125/Project-3.git"
