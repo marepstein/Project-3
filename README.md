@@ -1,5 +1,7 @@
 # Project-3-the-kitchen
 
+ ![IMAGE of desktop THE KITCHEN'](https://media.giphy.com/media/ZCTcAbGhXUvbOgbTUM/giphy.gif)
+
 https://thekitchenapp.herokuapp.com
 
 ## Overview
