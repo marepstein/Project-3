@@ -1,9 +1,5 @@
 # Project-3-the-kitchen
 
- ![IMAGE of desktop THE KITCHEN'](https://media.giphy.com/media/ZCTcAbGhXUvbOgbTUM/giphy.gif)
-
-https://thekitchenapp.herokuapp.com
-
 ## Overview
 
 This project made up the third project of General Assembly's Software Engineering Immersive program. We were sorted into predefined teams and were instructed to build a full stack browser application.
@@ -16,6 +12,10 @@ We were required to:
 * Handle API requests with a separate front-end built with React
 
 The resulting application titled 'the-kitchen' was constructed with team members [Michael](https://github.com/mjadair) & [Reggie](https://github.com/mr-anansi).
+
+![IMAGE of desktop THE KITCHEN'](https://media.giphy.com/media/ZCTcAbGhXUvbOgbTUM/giphy.gif)
+
+https://thekitchenapp.herokuapp.com
 ​
 ## Installation
 
