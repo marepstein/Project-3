@@ -1,5 +1,7 @@
 # Project-3-the-kitchen
 
+https://thekitchenapp.herokuapp.com
+
 ## Overview
 
 This project made up the third project of General Assembly's Software Engineering Immersive program. We were sorted into predefined teams and were instructed to build a full stack browser application.
@@ -129,9 +131,6 @@ In order to ensure we had enough data for the user to be able to sort through, w
 
 Once this was done we concentrated on getting our backend routes and data delivery done first, before moving on to the front end.
 
-## Wireframes
-
-(coming soon)
 
 ## Seeding
 
